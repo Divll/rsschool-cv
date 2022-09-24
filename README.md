@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Divll.github.io/rsschool-cv/cv
+https://divll.github.io/rsschool-cv/
